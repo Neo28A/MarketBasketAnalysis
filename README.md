@@ -9,7 +9,7 @@ This repository contains a Market Basket Analysis project implemented using the 
 
 ## Dataset
 
-The dataset used for this project is a transaction dataset containing records of items purchased by customers. The dataset is provided in the `data` directory.
+The dataset used for this project is a transaction dataset containing records of items purchased by customers. The dataset is provided in the `dataset` directory.
 
 ## Apriori Algorithm
 
