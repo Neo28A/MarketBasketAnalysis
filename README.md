@@ -1,6 +1,7 @@
 # Market Basket Analysis using Apriori Algorithm
 
-![image](https://github.com/Neo28A/MarketBasketAnalysis/assets/102372671/991deda1-1603-43cc-9cbd-7cde03fe83ce)
+![image](https://github.com/user-attachments/assets/45824eb9-8055-42fb-97da-e6a8d8ee3d00)
+
 
 
 ## Overview
